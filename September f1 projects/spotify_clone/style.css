@@ -254,7 +254,6 @@ footer {
 .lorem {
   color: #fff;
   font-size: 12px;
-  font-weight: ;
   letter-spacing: 1px;
   padding-top: 7px;
   line-height: 0.9;
@@ -315,9 +314,7 @@ line-height:0.1; /* 113.672% */
 .div_1{
   background-color: #222524;
 }
-.player_timer{
-  /* opacity:50%; */
-}
+
 .bar{
   width:500px;
   height: 5px;
@@ -327,8 +324,4 @@ line-height:0.1; /* 113.672% */
  width: 400px;
  height:5px;
 background: white;
-}
-.bar>p>span{
-  width: 25%;
-  background-color: rgb(162, 94, 94)128, 39, 39);
 }
